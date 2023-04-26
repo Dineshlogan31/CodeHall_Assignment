@@ -1,0 +1,18 @@
+#nav nav {
+  height: 50px;
+  width: 100%;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-weight: bold;
+  align-items: center;
+}
+#nav nav li {
+  list-style: none;
+}
+#nav nav li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
